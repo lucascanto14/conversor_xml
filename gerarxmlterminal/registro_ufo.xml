@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ufoanalyzer_record version="200" clip_name="0" y="0" mo="0" d="0" observer="0" cam="0" lens="0" cap="0" u2="0" ua="0" memo="0" az="0" ev="0" rot="0" vx="0" yx="0" dx="0" dy="0" k4="0" k3="0" k2="0" atc="0" BVF="0" maxLev="0" maxMag="0" minLev="0" mimMag="0" dl="0" leap="0" pixs="0" rstar="0" ddega="0" ddegm="0" errm="0" Lmrgn="0" Rmrgn="0" Dmrgn="0" Umrgn="0">
+    <ua2_objects>
+        <ua2_object fs="0" fe="0" fN="0" sN="0" sec="0" av="0" pix="0" bmax="0" mag="0" cdeg="0" cdegmax="0" io="0" raP="0" dcP="0" av1="0" x1="0" y1="0" x2="0" y2="0" az1="0" ev1="0" az2="0" ev2="0" azm="0" evm="0" ra1="0" dc1="0" ra2="0" dc2="0" ram="0" dcm="0" class="0" m="0" dr="0" dv="0" Vo="0" lng1="0" lat1="0" h1="0" dist1="0" gd1="0" azL1="0" evL1="0" lng2="0" lat2="0" h2="0" dist2="0" gd2="0" len="0" GV="0" rao="0" dco="0" Voo="0" rat="0" dct="0" memo="0"/>
+    </ua2_objects>
+</ufoanalyzer_record>
