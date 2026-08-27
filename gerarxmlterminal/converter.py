@@ -35,9 +35,7 @@ def carregar_template(xml_template):
 # SALVA O XML
 # ======================================================
 
-def salvar_arquivo_individual(xml_raiz,
-                              pasta_destino,
-                              nome_clip):
+def salvar_arquivo_individual(xml_raiz,pasta_destino,nome_clip):
 
     xml_string = ET.tostring(
         xml_raiz,
