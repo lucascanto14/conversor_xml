@@ -15,6 +15,9 @@ match opcao:
         datas = gerar_lista_datas(data_inicial)
         padrao_datas = f"({'|'.join(datas)})"
 
+      
+      
+
         arquivo_alvo = re.compile(rf"^FTPdetectinfo_([A-Za-z0-9]+)_{padrao_datas}_\d{{6}}_\d{{6}}\.txt$", 
         re.IGNORECASE)
 #extrair o ultimo arquivo gerado
